@@ -1,0 +1,14 @@
+textarea {
+	overflow: auto;
+}
+
+#contact_form input, #contact_form textarea
+{ padding: 4px 5px 1px 5px;
+}
+
+
+#contact
+{top: 12%;}
+
+#portfolio a span
+{zoom: 1;}

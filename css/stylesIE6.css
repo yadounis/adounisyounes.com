@@ -1,0 +1,30 @@
+.container div , #about_container div 
+{float: left;
+ display: inline;
+zoom: 1;}
+
+#header div 
+
+{display: inline;
+}
+
+body
+{background-color: black;}
+
+body, #wrapper, #header, .container, #portfolio
+{background-image: none;}
+
+#contact
+{position: absolute;}
+
+
+#menu ul li a
+{display: inline;}
+
+html #tiptip_arrow{display:none;}
+
+.one_star, .two_star, .three_star, .four_star, .five_star
+{background-image: none;
+text-indent: 0;
+display: inline;
+padding: 0 0 0 10px;}

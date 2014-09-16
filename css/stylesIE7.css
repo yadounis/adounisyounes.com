@@ -1,0 +1,49 @@
+body
+{background: black url(../images/border.png) repeat-y 497px 4px;}
+
+
+#name h1.author_name
+{font-size: 60px;
+margin: 28px 0 -16px 0;
+}
+
+#header
+{margin: 0 auto;}
+
+
+
+
+.container
+{
+display: inline-block;
+padding: 0 0 39px;
+background:url(../images/border-bottom.png) repeat-x 5px bottom;
+}
+
+.container .section
+{padding: 0 0 24px 0;}
+
+
+
+.container h2, #about_container h2
+{font-size: 40px;
+line-height: 20px;
+margin: 45px 0 25px 0;
+}
+
+
+#about, #photo
+{padding: 0 0 24px 0;}
+
+#skills .subsection ul li
+{
+padding: 5px 0 5px 0;
+}
+
+#skills .subsection
+{padding: 0;
+margin-bottom: -35px;
+}
+
+#skills 
+{padding: 0;}
